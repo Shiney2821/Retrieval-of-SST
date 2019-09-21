@@ -1,0 +1,53 @@
+D:\RS\RS\bin\Debug\RS.exe
+D:\RS\RS\bin\Debug\RS.pdb
+D:\RS\RS\obj\x86\Debug\RS.csprojResolveAssemblyReference.cache
+D:\RS\RS\obj\x86\Debug\RS.MainForm.resources
+D:\RS\RS\obj\x86\Debug\RS.Properties.Resources.resources
+D:\RS\RS\obj\x86\Debug\RS.csproj.GenerateResource.Cache
+D:\RS\RS\obj\x86\Debug\RS.exe
+D:\RS\RS\obj\x86\Debug\RS.pdb
+D:\RS\RS\obj\x86\Debug\RS.HIstogramForm.resources
+D:\RS\RS\obj\x86\Debug\RS.HIstogramCompareForm.resources
+D:\RS\RS\obj\x86\Debug\RS.SelectBandsForm.resources
+D:\RS\RS\obj\x86\Debug\RS.sst.resources
+E:\RSPJ\RS\RS\obj\x86\Debug\RS.exe
+E:\RSPJ\RS\RS\obj\x86\Debug\RS.pdb
+E:\RSPJ\RS\RS\obj\x86\Debug\RS.csprojResolveAssemblyReference.cache
+E:\RSPJ\RS\RS\obj\x86\Debug\RS.HIstogramCompareForm.resources
+E:\RSPJ\RS\RS\obj\x86\Debug\RS.HIstogramForm.resources
+E:\RSPJ\RS\RS\obj\x86\Debug\RS.MainForm.resources
+E:\RSPJ\RS\RS\obj\x86\Debug\RS.Properties.Resources.resources
+E:\RSPJ\RS\RS\obj\x86\Debug\RS.SelectBandsForm.resources
+E:\RSPJ\RS\RS\obj\x86\Debug\RS.sst.resources
+E:\RSPJ\RS\RS\obj\x86\Debug\RS.csproj.GenerateResource.Cache
+E:\RSPJ\RS\RS\bin\Debug\RS.exe
+E:\RSPJ\RS\RS\bin\Debug\RS.pdb
+C:\Users\yangruilin\Desktop\新建文件夹 (2)\RS\RS\bin\Debug\RS.exe.config
+C:\Users\yangruilin\Desktop\新建文件夹 (2)\RS\RS\obj\x86\Debug\RS.exe
+C:\Users\yangruilin\Desktop\新建文件夹 (2)\RS\RS\obj\x86\Debug\RS.pdb
+C:\Users\yangruilin\Desktop\新建文件夹 (2)\RS\RS\bin\Debug\RS.exe
+C:\Users\yangruilin\Desktop\新建文件夹 (2)\RS\RS\bin\Debug\RS.pdb
+C:\Users\yangruilin\Desktop\新建文件夹 (2)\RS\RS\obj\x86\Debug\RS.csprojResolveAssemblyReference.cache
+C:\Users\yangruilin\Desktop\新建文件夹 (2)\RS\RS\obj\x86\Debug\RS.HIstogramCompareForm.resources
+C:\Users\yangruilin\Desktop\新建文件夹 (2)\RS\RS\obj\x86\Debug\RS.HIstogramForm.resources
+C:\Users\yangruilin\Desktop\新建文件夹 (2)\RS\RS\obj\x86\Debug\RS.MainForm.resources
+C:\Users\yangruilin\Desktop\新建文件夹 (2)\RS\RS\obj\x86\Debug\RS.Properties.Resources.resources
+C:\Users\yangruilin\Desktop\新建文件夹 (2)\RS\RS\obj\x86\Debug\RS.SelectBandsForm.resources
+C:\Users\yangruilin\Desktop\新建文件夹 (2)\RS\RS\obj\x86\Debug\RS.sst.resources
+C:\Users\yangruilin\Desktop\新建文件夹 (2)\RS\RS\obj\x86\Debug\RS.csproj.GenerateResource.Cache
+C:\Users\yangruilin\Desktop\sst\RS\RS\bin\Debug\RS.exe.config
+C:\Users\yangruilin\Desktop\sst\RS\RS\obj\x86\Debug\RS.exe
+C:\Users\yangruilin\Desktop\sst\RS\RS\obj\x86\Debug\RS.pdb
+C:\Users\yangruilin\Desktop\sst\RS\RS\bin\Debug\RS.exe
+C:\Users\yangruilin\Desktop\sst\RS\RS\bin\Debug\RS.pdb
+C:\Users\yangruilin\Desktop\sst\RS\RS\obj\x86\Debug\RS.csprojResolveAssemblyReference.cache
+C:\Users\yangruilin\Desktop\sst\RS\RS\obj\x86\Debug\RS.HIstogramCompareForm.resources
+C:\Users\yangruilin\Desktop\sst\RS\RS\obj\x86\Debug\RS.HIstogramForm.resources
+C:\Users\yangruilin\Desktop\sst\RS\RS\obj\x86\Debug\RS.MainForm.resources
+C:\Users\yangruilin\Desktop\sst\RS\RS\obj\x86\Debug\RS.Properties.Resources.resources
+C:\Users\yangruilin\Desktop\sst\RS\RS\obj\x86\Debug\RS.SelectBandsForm.resources
+C:\Users\yangruilin\Desktop\sst\RS\RS\obj\x86\Debug\RS.sst.resources
+C:\Users\yangruilin\Desktop\sst\RS\RS\obj\x86\Debug\RS.csproj.GenerateResource.Cache
+E:\FinalPrj\RS\RS\bin\Debug\RS.exe.config
+E:\FinalPrj\RS\RS\obj\x86\Debug\RS.exe
+E:\FinalPrj\RS\RS\obj\x86\Debug\RS.pdb
